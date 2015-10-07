@@ -7,7 +7,19 @@
 	<link rel="stylesheet" href="main.css">
 </head>
 <body>
-	<section></section>
+	<section id="contenedor_general">
+	</section>
+
+	<section id="body">
+		<section id="scrolldown">
+			<p id="titulo">Scroll Down</p>
+			<p id="menorque"> < </p>
+		</section>
+
+		<section id="seccion">
+			
+		</section>
+	</section>
 	<script src="main.js"></script>
 </body>
 </html>
