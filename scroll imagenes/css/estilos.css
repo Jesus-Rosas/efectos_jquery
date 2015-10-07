@@ -1,0 +1,24 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	font-family: helvetica;
+}
+body 
+{
+	background-image: url('../img/bg.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+div#vacio
+{
+	width: 100%;
+	height: 600px;
+}
+div#container
+{
+	width: 100%;
+	height: 1000px;
+	background-color: white;
+}
